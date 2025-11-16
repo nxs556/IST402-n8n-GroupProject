@@ -1,5 +1,5 @@
 {
-  "name": "RAG Workflow For Company Documents stored in Google Drive",
+  "name": "IST402 - n8n Group Project",
   "nodes": [
     {
       "parameters": {
